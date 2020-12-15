@@ -60,4 +60,4 @@ Place | Team or User | Code | Public Score | Private Score | Summary of Model
 
 Additional solution details can be found in the `reports` folder inside the directory for each submission.
 
-**Benchmark Blog Post: ["Advance Alzheimer’s Research with Stall Catchers - Benchmark"](https://www.drivendata.co/blog/hateful-memes-benchmark/)**
+**Benchmark Blog Post: ["Hateful Memes - Benchmark"](https://www.drivendata.co/blog/hateful-memes-benchmark/)**
