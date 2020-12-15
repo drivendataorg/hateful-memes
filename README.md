@@ -44,7 +44,7 @@ As a reminder, the annotations collected for this dataset were not collected usi
 
 ## What's in this Repository
 
-This repository contains **links** to the code from winning competitors in the [Hateful Memes: Phase 2](https://www.drivendata.org/competitions/70/hateful-memes-phase-2/) DrivenData challenge. 
+This repository contains **links** to the code from winning competitors in the [Hateful Memes: Phase 2](https://www.drivendata.org/competitions/70/hateful-memes-phase-2/) DrivenData challenge. If you notice a problem with the link, please open an issue in this repository to let us know!
 
 **Winning code for other DrivenData competitions is available in the [competition-winners repository](https://github.com/drivendataorg/competition-winners).**
 
@@ -58,6 +58,6 @@ Place | Team or User | Code | Public Score | Private Score | Summary of Model
 4     | kingsterdam | [link](https://github.com/Nithin-Holla/meme_challenge) | 0.8053 | 0.8053 | We found that UNITER performed the best, which could perhaps be attributed to its diverse set of pre-training tasks. We decided to upsample these text confounders to give additional weight to these examples. Additionally, we added more weight to the hateful examples to combat the class imbalance. Furthermore, we performed cross-validation style training for better generalizability of the model. The final prediction was obtained as a weighted ensemble where the ensemble weights were optimized using an evolutionary algorithm (EA) on the development set predictions.
 5     | burebista   | [link](https://github.com/vladsandulescu/hatefulmemes) | 0.7943 | 0.7943 | I adapted a couple of multimodal pretrained architectures and did simple ensembling to smooth out the predictions. I also tried LXMERT and VLP, because I wanted to see how the architectures and pre-training procedures impacted the finetuning for a downstream task.
 
-Additional solution details can be found in the `reports` folder inside the directory for each submission.
+Additional solution details can be found in each winner's repository.
 
 **Benchmark Blog Post: ["Hateful Memes - Benchmark"](https://www.drivendata.co/blog/hateful-memes-benchmark/)**
