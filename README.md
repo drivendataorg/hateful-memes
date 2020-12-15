@@ -1,7 +1,7 @@
 [<img src='https://s3.amazonaws.com/drivendata-public-assets/logo-white-blue.png' width='600'>](https://www.drivendata.org/)
 <br><br>
 
-[<img src='https://drivendata-public-assets.s3.amazonaws.com/three-mean-memes.png' width='400'>](https://www.drivendata.org/)
+[<img src='https://drivendata-public-assets.s3.amazonaws.com/three-mean-memes.png' width='600'>](https://www.drivendata.org/)
 <br><br>
 
 # Hateful Memes
