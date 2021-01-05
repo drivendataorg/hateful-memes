@@ -35,13 +35,6 @@ As is to be expected with a dataset of this size and nature, some of the example
 
 As a reminder, the annotations collected for this dataset were not collected using Facebook annotators and we did not employ Facebook’s hate speech policy. As such, the dataset labels do not in any way reflect Facebook’s official stance on this matter.
 
-<center>
-   <video controls height="400">
-      <source src="https://s3.amazonaws.com/drivendata-public-assets/benign-confounder.mp4" type="video/mp4" >
-</video>
-<p>*Why detecting hateful memes requires a multimodal approach.*</p>
-</center>
-
 ## What's in this Repository
 
 This repository contains **links** to the code from winning competitors in the [Hateful Memes: Phase 2](https://www.drivendata.org/competitions/70/hateful-memes-phase-2/) DrivenData challenge. If you notice a problem with the link, please open an issue in this repository to let us know!
