@@ -39,6 +39,8 @@ As a reminder, the annotations collected for this dataset were not collected usi
 
 This repository contains **links** to the code from winning competitors in the [Hateful Memes: Phase 2](https://www.drivendata.org/competitions/70/hateful-memes-phase-2/) DrivenData challenge. If you notice a problem with the link, please open an issue in this repository to let us know!
 
+As a condition for being awarded a prize, all winning solutions are open source under a permissive open source license approved by the Open Source Initiative. See each individual solution repository for its license information.
+
 **Winning code for other DrivenData competitions is available in the [competition-winners repository](https://github.com/drivendataorg/competition-winners).**
 
 ## Winning Submissions
@@ -52,5 +54,7 @@ Place | Team or User | Code | Paper | Score | Summary of Model
 5     | burebista   | [link](https://github.com/vladsandulescu/hatefulmemes) | [link](https://arxiv.org/abs/2012.13235) | 0.7943 | I adapted a couple of multimodal pretrained architectures and did simple ensembling to smooth out the predictions. I also tried LXMERT and VLP, because I wanted to see how the architectures and pre-training procedures impacted the finetuning for a downstream task.
 
 Additional solution details can be found in each winner's repository.
+
+**Winners Blog Post: ["Meet the Winners of the Hateful Memes Challenge"](https://drivendata.co/blog/hateful-memes-winners)**
 
 **Benchmark Blog Post: ["Hateful Memes - Benchmark"](https://www.drivendata.co/blog/hateful-memes-benchmark/)**
